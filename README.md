@@ -1,3 +1,9 @@
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-GAS-blue)
+![AppSheet](https://img.shields.io/badge/AppSheet-Integration-green)
+![Status](https://img.shields.io/badge/Status-Production-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 # Financial Webhook Automation
 
 Automação de notificações financeiras utilizando **Google Apps Script (GAS)**, **AppSheet** e **Google Sheets**.

@@ -16,7 +16,7 @@ Projeto baseado em uma solução real atualmente utilizada em ambiente de produ�
 
 ---
 
-## 🛠 Tecnologias
+## Tecnologias
 
 - Google Apps Script (GAS)
 - JavaScript (ES6)
@@ -27,7 +27,7 @@ Projeto baseado em uma solução real atualmente utilizada em ambiente de produ�
 
 ---
 
-## 🏗 Arquitetura
+## Arquitetura
 
 ```text
                  AppSheet Automation
